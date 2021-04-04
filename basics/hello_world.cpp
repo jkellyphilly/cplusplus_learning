@@ -2,7 +2,7 @@
 *** "Hello world, I am ready for C++"
 */
 
-#include <iostream>
+#include "hello_world.hpp"
 
 int main() {
     std::cout << "Hello world, I am ready for C++\n";
